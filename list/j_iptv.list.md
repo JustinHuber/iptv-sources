@@ -423,4 +423,4 @@
 | 417 | CGTN西语 | CGTN | <https://news.cgtn.com/resource/live/espanol/cgtn-e.m3u8> |
 | 418 | CGTN阿语 | CGTN | <https://news.cgtn.com/resource/live/arabic/cgtn-a.m3u8> |
 
-Updated at **Sat Jul 27 2024 22:12:10 GMT+0000 (Coordinated Universal Time)**
+Updated at **Sun Jul 28 2024 01:06:34 GMT+0000 (Coordinated Universal Time)**
