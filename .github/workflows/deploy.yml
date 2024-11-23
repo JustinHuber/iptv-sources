@@ -36,6 +36,6 @@ jobs:
           github_token: ${{ secrets.GITHUB_TOKEN }}
           publish_dir: ./m3u
           enable_jekyll: true
-          cname: justinhuber.github.io
+          cname: justinhuber.github.io/iptv-sources
 
      
