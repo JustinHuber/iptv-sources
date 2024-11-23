@@ -51,6 +51,9 @@
 	<programme channel="4K综艺" start="20241124002300 +0800" stop="20241124020100 +0800">
 		<title lang="zh">我最爱的女人们20190531</title>
 	</programme>
+	<programme channel="4K综艺" start="20241124020100 +0800" stop="20241124031500 +0800">
+		<title lang="zh">我最爱的女人们20190601</title>
+	</programme>
 	<channel id="BTV体育">
 		<display-name lang="zh">BTV体育</display-name>
 	</channel>
@@ -49820,6 +49823,9 @@
 	</channel>
 	<programme channel="newtv精品体育" start="20241124001300 +0800" stop="20241124014800 +0800">
 		<title lang="zh">2024-25赛季德甲联赛第5轮：莱比锡VS奥格斯堡</title>
+	</programme>
+	<programme channel="newtv精品体育" start="20241124014800 +0800" stop="20241124033100 +0800">
+		<title lang="zh">2024-25赛季法甲联赛第6轮：朗斯VS尼斯</title>
 	</programme>
 	<channel id="newtv武搏世界">
 		<display-name lang="zh">NEWTV武搏世界</display-name>
