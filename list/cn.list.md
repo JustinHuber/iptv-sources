@@ -6,4 +6,4 @@
 | --- | ------------ | ---- | ------ |
 | 1 | [HD]内江新闻 | njzb.scnj.tv:1938 | <rtmp://njzb.scnj.tv:1938/live/xwzh_xwzh800> |
 
-Updated at **Tue May 19 2026 02:57:43 GMT+0000 (Coordinated Universal Time)**
+Updated at **Tue May 19 2026 07:42:37 GMT+0000 (Coordinated Universal Time)**
