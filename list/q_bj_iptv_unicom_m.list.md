@@ -136,4 +136,4 @@
 | 130 | 嘉佳卡通 | IPv4 直链 | <rtp://239.3.1.147:9268> |
 | 131 | 山东教育 | IPv4 直链 | <rtp://239.3.1.52:4120> |
 
-Updated at **Sun Jun 14 2026 13:57:56 GMT+0000 (Coordinated Universal Time)**
+Updated at **Sun Jun 14 2026 15:49:26 GMT+0000 (Coordinated Universal Time)**
