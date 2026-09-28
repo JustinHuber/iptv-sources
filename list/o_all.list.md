@@ -9918,4 +9918,4 @@
 | 9912 | Zvezda Plus HD (1080p) | tvzvezda.bonus-tv.ru | <http://tvzvezda.bonus-tv.ru/cdn/zvezdaplus/playlist.m3u8> |
 | 9913 | Zwei Music Television | zweiapp.b-cdn.net | <https://zweiapp.b-cdn.net/1080p/index.m3u8> |
 
-Updated at **Mon Sep 28 2026 10:32:35 GMT+0000 (Coordinated Universal Time)**
+Updated at **Mon Sep 28 2026 19:13:36 GMT+0000 (Coordinated Universal Time)**
